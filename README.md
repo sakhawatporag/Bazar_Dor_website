@@ -49,5 +49,5 @@ A web platform designed to provide transparent, daily market prices for essentia
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/bazar-dor.git](https://github.com/YOUR_USERNAME/bazar-dor.git)
-   cd bazar-dor
+  [ git clone [https://github.com/YOUR_USERNAME/bazar-dor.git](https://github.com/YOUR_USERNAME/bazar-dor.git)
+   cd bazar-dor](https://github.com/sakhawatporag/Bazar_Dor_website.git)
