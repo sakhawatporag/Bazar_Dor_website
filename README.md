@@ -2,12 +2,29 @@
 
 A web platform designed to provide transparent, daily market prices for essential agricultural commodities across Bangladesh, helping consumers and vendors track price fluctuations.
 
-![Bazar Dor Preview](./Screenshot%202026-10-29%20215225.png)
-
 ---
 
 ### 🚀 Live Demo
 - **Live URL:** [https://assignment-007-five.vercel.app](https://assignment-007-five.vercel.app)
+
+---
+
+### 📸 Application Screenshots
+
+<p align="center">
+  <img src="./Screenshot%202026-10-29%20215225.png" alt="Overview" width="48%" />
+  <img src="./Screenshot%202026-10-29%20215234.png" alt="Dashboard" width="48%" />
+</p>
+
+<p align="center">
+  <img src="./Screenshot%202026-10-29%20215244.png" alt="Price Trends" width="48%" />
+  <img src="./Screenshot%202026-10-29%20215252.png" alt="Category Filter" width="48%" />
+</p>
+
+<p align="center">
+  <img src="./Screenshot%202026-10-29%20215301.png" alt="District View" width="48%" />
+  <img src="./Screenshot%202026-10-29%20215331.png" alt="Analytics" width="48%" />
+</p>
 
 ---
 
